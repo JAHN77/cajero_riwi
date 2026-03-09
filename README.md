@@ -2,7 +2,7 @@
 
 ¡Accede a tus servicios bancarios de manera rápida y segura!  
 
-![Cajero Animado](https://media.giphy.com/media/3orieVVJmEkC4nqZzq/giphy.gif)
+  ![Cajero Animado](https://media.giphy.com/media/3orieVVJmEkC4nqZzq/giphy.gif)
 
 ---
 
@@ -11,10 +11,11 @@
 - 💳 **Consultar saldo**
 - 💰 **Retirar efectivo**
 - 🔄 **Transferencias**
-- 🧾 **Historial de movimientos**
-- ⚙️ **Configuración de cuenta**
+- 🧾 **Salir **
+  
 
 ---
+
 
 ### ⬇️ Accede a tu cajero
 
